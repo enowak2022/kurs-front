@@ -1,0 +1,26 @@
+.tableWrapper{
+    
+    padding: 3 3rem;
+  }
+  
+  table{
+    
+    box-shadow: var(--default-box-shadow);
+    
+    width:30%;
+    
+    
+  }
+  
+  th{
+   
+    padding:.3rem;
+  }
+  
+  td{
+    padding:.3rem;
+  }
+  
+
+  
+  
