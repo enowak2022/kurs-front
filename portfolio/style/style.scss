@@ -2,13 +2,13 @@
     --foreground-dark:#34128F;
     --foreground-light:#9C78FF;
     --background-dark:#8F8518;
-    --background-light:#DBD051;
+    --background-light:#65a8cf;
   
   }
   *{box-sizing: border-box;}
   
   body { 
-      background-color: rgba(46, 139, 86, 0.997);
+      background-color: rgba(82, 206, 228, 0.997);
       margin:0;
       min-height: 1000px;
     }
@@ -99,7 +99,7 @@
     li{
       top: 0;
       left: 0;
-      margin: 3rem;
+      margin: .3rem;
     }
     ul{
       /* display:none; */
