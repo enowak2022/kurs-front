@@ -1,0 +1,9 @@
+body { background-color:rgb(219, 168, 199); margin:0;}
+    h1{ text-align:center; }
+    main{ margin: 1rem;}
+    .carousel{
+      border:2px dashed red;
+      display:flex;
+      justify-content: space-between;
+      align-items: center;
+    }
