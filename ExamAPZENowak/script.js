@@ -1,26 +1,26 @@
 const views = [ 		
     {
-      "src" : "img/city1",
+      "src" : "1.webp",
       "name" : "Pierwszy",
       "alt" : "City"
     },
     {
-      "src" : "img/architect",
+      "src" : "2.webp",
       "name" : "Drugi",
       "alt": "architecture"
     },
     {
-      "src" : "img/beach0",
+      "src" : "3.webp",
       "name" : "Trzeci",
       "alt" : "Beach"
     },
     {
-      "src" : "img/beach12",
+      "src" : "4.webp",
       "name" : "Czwarty",
       "alt" : "Beach1"
     },
     {
-      "src" : "img/beach22",
+      "src" : "5.webp",
       "name" : "Piąty",
       "alt" : "Beach2"
     }
