@@ -1,7 +1,7 @@
 const views = [ 		
     {
       "src" : "1.webp",
-      "name" : "Pierwszy",
+      "name" : "Pierwszy - Ewa Nowak",
       "alt" : "City"
     },
     {
